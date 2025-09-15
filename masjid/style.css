@@ -582,7 +582,7 @@ Image credits: unsplash.com
 	position:fixed;
 	/* bottom:-4vh; */
 	top:1vw;
-	right:23vw;
+	right:21vw;
 	/* background-color:#F00; */
 	/* background-image: url(../img/logo.png); */
 	background-size: contain;
@@ -666,6 +666,7 @@ Image credits: unsplash.com
 	font-style: italic;
 	position:relative;
 }
+
 
 
 
