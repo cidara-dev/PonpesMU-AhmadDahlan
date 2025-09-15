@@ -575,14 +575,14 @@ Image credits: unsplash.com
 
 
 #logo{
-	height:18vw;
+	height:17vw;
 	width:60vw;
 	/* margin:3vh 3vw 4vh 3vw; */
 	/* background-color: #f00; */
 	position:fixed;
 	/* bottom:-4vh; */
 	top:1.5vw;
-	right:20vw;
+	right:25vw;
 	/* background-color:#F00; */
 	/* background-image: url(../img/logo.png); */
 	background-size: contain;
@@ -666,5 +666,6 @@ Image credits: unsplash.com
 	font-style: italic;
 	position:relative;
 }
+
 
 
